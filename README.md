@@ -1,2 +1,2 @@
-# stepik_auto_tests_course
+# stepik_homework
 Here is my homework for the course: https://stepik.org/course/575/syllabus
