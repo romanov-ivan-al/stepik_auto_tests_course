@@ -1,0 +1,9 @@
+{
+  "bath.py::test_succeed": true,
+  "lesson_pytest.py": true,
+  "test_fixture4.py::TestMainPage1::test_guest_should_see_basket_link_on_the_main_page": true,
+  "test_fixture4.py::TestMainPage1::test_guest_should_see_login_link": true,
+  "test_fixture5.py::TestMainPage1::test_guest_should_see_basket_link_on_the_main_page": true,
+  "test_fixture5.py::TestMainPage1::test_guest_should_see_login_link": true,
+  "unit_test_page.py::TestPages::test_page2": true
+}
